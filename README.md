@@ -30,7 +30,7 @@ Cybernetic backend dev with a flair for precision chaos.
 ### 💻 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,c,python,react,nextjs,angular,nestjs,nodejs,flask,docker,git,github,postgres,mongodb,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,c,python,react,nextjs,angular,nestjs,nodejs,docker,git,github,postgres,mongodb,linux,vscode" />
 </p>
 
 ---
