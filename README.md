@@ -50,8 +50,8 @@ Cybernetic backend dev with a flair for precision chaos.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuC1f3-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=LuC1f3-r&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuC1f3-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LuC1f3-r&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 <p align="center">
