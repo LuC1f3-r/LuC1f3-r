@@ -20,7 +20,7 @@ Cybernetic backend dev with a flair for precision chaos.
 ```
 
 - 💡 Turning chaos into code with ⚙️ Nest.js, 🧠 TypeScript, and 🧱 Docker
-- 🧠 Building cognitive systems and backend infrastructure adsad asd
+- 🧠 Building cognitive systems and backend infrastructure adsad
 - 🚀 Currently engineering: **DaemonCloud** – a self-scaling microservice orchestration system
 - 📫 Reach me at: [niyaz47nhh@gmail.com](mailto:niyaz47nhh@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/niyazherkal/)
